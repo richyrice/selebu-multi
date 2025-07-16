@@ -18,6 +18,6 @@ source venv/bin/activate
 
 pip install selenium webdriver-manager
 
-cp /selebul/*.py /selebul/tests/
-cp /selebul/*.txt /selebul/tests/
+cp /selebu-multi/*.py /selebu-multi/tests/
+cp /selebu-multi/*.txt /selebu-multi/tests/
 
