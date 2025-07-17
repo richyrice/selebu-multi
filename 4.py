@@ -50,5 +50,5 @@ def youtube_search_and_watch(keyword, video_url):
 # Contoh penggunaan
 youtube_search_and_watch(
     keyword="urang sundal sunda",
-    video_url="https://www.youtube.com/watch?v=mjxZeyIYeNo"
+    video_url="https://www.youtube.com/watch?v=squHnNmmD9k"
 )
